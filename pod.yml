@@ -27,5 +27,5 @@ spec:
     spec:
       containers:
         - name: hello
-          image: thivagad/newimage:latest
+          image: imthivagar/newimage:latest
           imagePullPolicy: Always
